@@ -1,0 +1,88 @@
+*{
+    font-family: "Ubuntu", serif;
+    margin: 0;
+    padding: 0;
+}
+
+.bannerConent  p{
+  font-size: 22px;
+}
+.bannerConent ul li{
+    font-size: 20px;
+    list-style: none;
+}
+.bannerConent ul li i{
+    color: rgb(5, 221, 221);
+    margin-right: 9px;
+}
+.bannerButton button{
+    width: 50%;
+    padding: 10px 0px;
+}
+
+.bannerButton .left{
+    color: aliceblue;
+}
+.bannerForm button{
+    width: 100%;
+    color: aliceblue;
+    font-weight: 600;
+    border: none;
+background: linear-gradient(to rigth,#0ACEfE,#2699FB);
+}
+
+.section2 h2{
+    color: rgb(5, 221, 221);
+
+}
+.section2 p{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.section3 img{
+  width: 90px;
+}
+
+.section3 .Highlights{
+    
+    margin-bottom: 8px;
+    align-items: center;
+}
+.Highlights .h5{
+    font-size: 20px;
+}
+
+.slider img{
+    height: 350px;
+}
+
+.section4 li{
+    list-style: none;
+}
+.section4 li i{
+    margin-right: 10px;
+    color: #0ACEfE;
+}
+.section4 button{
+    font-size: 19px;
+}
+.section4 nav{
+    margin-bottom: 10px;
+}
+
+footer{
+    height: 180px;
+    margin-top: 20px;
+    background-color: #00294d;
+    color: azure;
+}
+footer ul li{
+list-style: none;
+}
+footer ul li:hover{
+    cursor: pointer;
+    }
+footer h4{
+    padding-left: 40px;
+}

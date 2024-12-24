@@ -1,0 +1,18 @@
+@media only screen and (min-width:200px) and (max-width:1050px) {
+    .btn-outer{
+        position: fixed;
+        bottom: 0px;
+        left: 30%;
+    }
+    .bannerButton {
+        display: flex;
+        flex-direction: column;
+        font-size: 13px;
+    }
+    .bannerButton button{
+        width: 100%;
+    }
+    .bannerForms{
+        margin-top: 20px;
+    }
+}
